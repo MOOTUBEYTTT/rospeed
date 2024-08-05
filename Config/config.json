@@ -4,8 +4,8 @@
         "threads": 100
     },
     "request": {
-        "module": "socket/httpx/aiohttp/requests",
-        "timeout": 5,
+        "module": "socket",
+        "timeout": 50,
         "proxyLess": false
     },
     "groupRanges": {
@@ -14,11 +14,11 @@
             "randomIds": true
         },
         "min": 32000000,
-        "max": 32700000,
+        "max": 34700000,
         "batchsize": 100
     },
     "webhook": {
-        "url": "webhok enteration frfr",
+        "url": "https://discord.com/api/webhooks/1267546510967570452/-DZ8ML07xHDlxi5Y7ym4gV5Ud0gDwp4K3PWjLcK75p0BjMpxc9AwPiFtwi0jd8NLfQde",
         "groupPing": true
     },
     "proxy": {
